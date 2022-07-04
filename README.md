@@ -1,4 +1,4 @@
-## Cocktail Project
+## Shopping Cart
 
 ## Project setup
 
